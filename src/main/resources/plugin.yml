@@ -1,0 +1,5 @@
+name: UHCCore
+author: Anto42_
+version: 1.0
+main: fr.anto42.emma.UHC
+api-version: 1.8.8
